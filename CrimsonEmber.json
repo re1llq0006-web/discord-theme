@@ -79,12 +79,7 @@
     "BACKGROUND_MODIFIER_ACCEPT": ["#c6282833"],
     "BACKGROUND_MODIFIER_ACCEPT_HOVER": ["#c628284d"],
     "AUTOMOD_QUEUED_FOR_REVIEW_BACKGROUND": ["#c6282840"],
-    "AUTOMOD_QUEUED_FOR_REVIEW_BACKGROUND_HOVER": ["#c6282866"],
-    "MESSAGE_AUTHOR_NAME": ["#ef5350"],
-    "USERNAME_NORMAL": ["#ef5350"],
-    "USERNAME_ROLE": ["#ef5350"],
-    "MARKUP_TEXT": ["#ef5350"],
-    "MESSAGE_CONTENT": ["#ef5350"]
+    "AUTOMOD_QUEUED_FOR_REVIEW_BACKGROUND_HOVER": ["#c6282866"]
   },
   "rawColors": {
     "BLUE_260": "#c62828",
@@ -238,7 +233,7 @@
   "background": {
     "blur": 0,
     "url": "https://raw.githubusercontent.com/re1llq0006-web/discord-theme/main/5ABFB138-ACA1-4B0A-AFE5-D04A5A0DC43C.png",
-    "alpha": 1.0
+    "OPACITY": 100
   },
   "spec": 2
 }
