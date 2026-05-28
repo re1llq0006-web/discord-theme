@@ -14,7 +14,7 @@
     "TEXT_NORMAL": ["#e0e0e0", "#1a1a1a"],
     "TEXT_MUTED": ["#9e9e9e", "#747f8d"],
     "TEXT_LINK": ["#ef5350", "#b71c1c"],
-    "TEXT_POSITIVE": ["("#c62828", "#b71c1c"],
+    "TEXT_POSITIVE": ["#c62828", "#b71c1c"],
     "TEXT_WARNING": ["#e53935", "#e53935"],
     "TEXT_DANGER": ["#ef5350", "#c62828"],
     "INTERACTIVE_NORMAL": ["#e53935", "#b71c1c"],
